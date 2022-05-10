@@ -6,4 +6,4 @@
 # IDE
 [![IDE](https://img.shields.io/badge/Primary%20IDE-VSCode-blue?style=for-the-badge)](https://code.visualstudio.com/)
 
-[![sIDE](https://img.shields.io/badge/Secondary%20IDE-Xcode-blue?style=for-the-badge)](https://developer.apple.com) OR [![sIDE2]
+[![sIDE](https://img.shields.io/badge/Secondary%20IDE-Xcode-blue?style=for-the-badge)](https://developer.apple.com)
