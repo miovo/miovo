@@ -1,4 +1,4 @@
-[![lumeyisnotyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=miovo&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![miovos's GitHub stats](https://github-readme-stats.vercel.app/api?username=miovo&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miovo&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 <img src="uh.png" width="256" align="right">
