@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miovo&show_icons=true&locale=en" alt="miovo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miovo&" alt="miovo" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=miovo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 # IDE
